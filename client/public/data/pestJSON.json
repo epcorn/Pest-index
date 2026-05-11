@@ -1,0 +1,78 @@
+[
+  {
+    "month": {
+      "label": "January-February"
+    },
+    "pests": ["cockroaches", "termites", "Rodents"],
+    "tip": "During winter, pests look for warmth in homes. This is the best time to detect any concealed pest infestations",
+    "keys": [
+      "Less breeding",
+      "Pests are easy to detect",
+      "Prevents summer pest outbreak",
+      "Winter pest control is an excellent choice for long-term prevention."
+    ]
+  },
+  {
+    "month": {
+      "label": "March-April"
+    },
+    "pests": ["cockroaches", "termites", "ants", "general pests"],
+    "tip": "This is one of the best months for pest control.",
+    "keys": [
+      "Prevents pests from reaching peak breeding",
+      "Reduces summer pes infestations",
+      "Pest control treatments last longer",
+      "Early summer pest control provides an excellent protective shield."
+    ]
+  },
+  {
+    "month": {
+      "label": "May-June"
+    },
+    "pests": ["cockroaches", "flies", "ants", "bed bugs"],
+    "tip": "Pest activity rises sharply because of the heat.",
+    "keys": [
+      "Controls active infestations",
+      "Prevents infestation of multiple rooms",
+      "However, follow-up treatments may be required because of high pest activity."
+    ]
+  },
+  {
+    "month": {
+      "label": "July-August"
+    },
+    "pests": ["cockroaches", "rodents", "Mosquitoes", "flies"],
+    "tip": "Monsoon season is the most challenging time in terms of pest infestations, but it is also the most important time for pest control.",
+    "keys": [
+      "Controls breeding grounds",
+      "Reduces disease risk",
+      "Essential for health and hygiene",
+      "Pest control during monsoon seasons is more about control than prevention."
+    ]
+  },
+  {
+    "month": {
+      "label": "September-October"
+    },
+    "pests": ["Termites","Mosquitoes", "general pests"],
+    "tip": "This is another great season for pest control, particularly termite control.",
+    "keys": [
+      "Soil is moist, making termite control effective",
+      "Mosquitoes reduce in population quickly",
+      "Long-lasting effects",
+      "This is believed to be the best season for termite control by many experts."
+    ]
+  },
+  {
+    "month": {
+      "label": "November-December"
+    },
+    "pests": ["Rodents","cockroaches", " preventive pest control"],
+    "tip": "Pests begin to migrate inside in search of shelter.",
+    "keys": [
+      "Prevents infestation during winter",
+      "Best time for annual maintenance",
+      "Less use of chemicals"
+    ]
+  }
+]

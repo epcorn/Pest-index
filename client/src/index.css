@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "tailwind-scrollbar-hide/v4";
+
+@theme {
+  --color-light: #fff;
+  --color-dark: #000;
+  --color-logo: #05df72;
+  --color-primary: #1d293d;
+  --color-primary-light:#5a6779;
+
+}
